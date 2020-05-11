@@ -1,2 +1,2 @@
-# Machine-Learning-on-Stalog_Shuttle-DataSets
+# Machine-Learning-on-Statlog_Shuttle-DataSets
 The objective of this study is to compare the ML algorithms Logistic regression, KNN and SVM using the Statlog (Shuttle) dataset.  To do so, we will first prepare our data, perform a basic visualization and statistical description of the data to better understand it, then we will perform data preprocessing, design prediction methods and finally we will compare the models in terms of accuracy, training and testing time. 
